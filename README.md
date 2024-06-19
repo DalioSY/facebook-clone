@@ -48,7 +48,6 @@ npm i
 ```
 ### 3. Execute 
 
+>src/index.html
+
 Open with live server 
-```bash
-src/index.html
-```
