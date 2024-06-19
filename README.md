@@ -2,7 +2,7 @@
 
 ## Olá sejam bem-vindo
 
-Projeto Facebook Clone: Desafio Tailwind CSS e Homenagem ao Mentor Rodolfo!
+Projeto Facebook Clone: Desafio Tailwind CSS
 
 Desenvolvendo com Tailwind CSS e buscando aprimorar minhas habilidades, embarquei em um projeto empolgante: a criação de um clone do Facebook!
 
@@ -16,12 +16,11 @@ Inspirado pelo vídeo do meu mentor, Rodolfo, mergulhei no universo do Tailwind 
 
 
 ## Desafios e Aprendizados:
-Reproduzir a interface do Facebook com fidelidade, utilizando apenas Tailwind CSS, foi um desafio estimulante.
-A curva de aprendizado do Tailwind CSS foi íngreme, mas gratificante.
-A experiência me ensinou a importância da persistência, do planejamento e da busca por soluções criativas.
+- Reproduzir a interface do Facebook com fidelidade, utilizando apenas Tailwind CSS, foi um desafio estimulante.
+- A curva de aprendizado do Tailwind CSS foi íngreme, mas gratificante.
+- A experiência me ensinou a importância da persistência, do planejamento e da busca por soluções criativas.
 
 ### Link:
-> Deploy: https://daliosy.github.io/facebook-clone
 
 > Portfólio: https://daliosy.github.io/my-PORTFOLIO
 
@@ -35,3 +34,21 @@ A experiência me ensinou a importância da persistência, do planejamento e da 
   <img src="./img/git-1.png" width="250px">
   <img src="./img/git-2.png" width="250px">
 </div>
+
+## Instrução de instalação
+### 1. Clone o repositório com o comando:
+```bash
+git clone https://github.com/DalioSY/facebook-clone
+```
+
+### 2. Instale npm
+
+```bash
+npm i
+```
+### 3. Execute 
+
+Open with live server 
+```bash
+src/index.html
+```
